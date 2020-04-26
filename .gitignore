@@ -3,3 +3,9 @@
 ################################################################################
 
 /MessageProcessingSimulator/bin/Debug/netstandard2.0
+/.vs/MessageProcessingSimulator/v16
+/MessageProcessingSimulator/obj
+/MessageProcessingSimulator.Console/bin/Debug/netcoreapp3.1
+/MessageProcessingSimulator.Console/obj
+/MessageProcessingSimulator.Interfaces/bin/Debug/netstandard2.0
+/MessageProcessingSimulator.Interfaces/obj
